@@ -10,7 +10,7 @@ public class C02_Ignore {
     public void youtubeTesti(){
         System.out.println("Youtube");
     }
-    @Test(priority = 3) @Ignore
+    @Test(priority = -3) @Ignore
     public void wiseTesti(){
         System.out.println("Wise Quarter");
     }
