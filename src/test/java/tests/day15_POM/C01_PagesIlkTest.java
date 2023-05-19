@@ -18,5 +18,9 @@ public class C01_PagesIlkTest {
         String expectedicerik = "Nutella";
         String actualAramaSonucyazisi= amazonPage.aramaSonucuElementi.getText();
         // sayfayi kapatalim
-    }
-}
+
+        String isim="sevgi";
+        String ters="";
+
+        }
+     }

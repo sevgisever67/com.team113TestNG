@@ -22,5 +22,4 @@ public class FaceBookPage {
     public WebElement loginButton;
 
 
-
 }
