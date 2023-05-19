@@ -27,7 +27,7 @@ public class C06_QualitydemyNegatifLoginTesti {
 
         // basarili olarak giris yapilamadigini test edin
         Assert.assertTrue(qualitydemyPage.emailKutusu.isEnabled());
-        // sayfayi kapatin
+        // sayfayi kapatin ...
 
         Driver.closeDriver();
     }
