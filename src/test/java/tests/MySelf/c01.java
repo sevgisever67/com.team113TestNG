@@ -1,4 +1,4 @@
-package tests.day14_TestNGFramework;
+package tests.MySelf;
 
 import org.testng.annotations.Test;
 
