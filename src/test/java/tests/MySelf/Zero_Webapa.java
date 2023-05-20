@@ -19,11 +19,15 @@ public class Zero_Webapa {
         zeroPage.passworsButton.sendKeys(ConfigReader.getProperty("zeroPassword"));
         //5. Sign in tusuna basin
         zeroPage.signInKayitButton.click();
-        //6. Online banking menusu icinde Pay Bills sayfasina gidin
+        //6. Online banking menusu icinde Pay Bills sayfasina gidi
 
         //7. “Purchase Foreign Currency” tusuna basin
         //8. “Currency” drop down menusunden Eurozone’u secin
         //9. soft assert kullanarak "Eurozone (euro)" secildigini test edin
+
+
+        // Bu soruyu çözmeyi unutmayalım
+
 
     }
 
